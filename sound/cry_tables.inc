@@ -4852,4 +4852,9 @@ gCryTable_Reverse::
 .if P_FAMILY_PECHARUNT == TRUE
 	cry_reverse Cry_Pecharunt
 .endif @ P_FAMILY_PECHARUNT
+.if P_FAMILY_RINGAPPLE == TRUE
+	cry Cry_Ringapple
+	cry Cry_Brilliapple
+	cry Cry_Ringotista
+.endif @ P_FAMILY_RINGAPPLE
 .endif @ P_CRIES_ENABLED
