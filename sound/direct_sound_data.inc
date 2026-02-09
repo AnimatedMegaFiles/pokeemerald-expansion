@@ -6154,6 +6154,20 @@ Cry_Terapagos::
 Cry_Pecharunt::
 	.incbin "sound/direct_sound_samples/cries/pecharunt.bin"
 .endif @ P_FAMILY_PECHARUNT
+
+.if P_FAMILY_RINGAPPLE == TRUE
+	.align 2
+Cry_Ringapple::
+	.incbin "sound/direct_sound_samples/cries/ringapple.bin"
+
+	.align 2
+Cry_Brillapple::
+	.incbin "sound/direct_sound_samples/cries/brillapple.bin"
+
+	.align 2
+Cry_Ringotista::
+	.incbin "sound/direct_sound_samples/cries/ringotista.bin"
+.endif @_P_FAMILY_RINGAPPLE
 .endif @ P_CRIES_ENABLED
 
 	.align 2
