@@ -1665,6 +1665,29 @@
 #define SPECIES_DRAMPA_MEGA                             1548
 #define SPECIES_FALINKS_MEGA                            1549
 
+#define CEASTIL_START                                   SPECIES_FALINKS_MEGA
+#define SPECIES_RINGAPPLE                               1550
+#define SPECIES_BRILLIAPPLE                             1551
+#define SPECIES_RINGOTISTA                              1552
+#define SPECIES_TOASTMALLOW                             1553
+#define SPECIES_MARSHMELT                               1554
+#define SPECIES_KAIJUMEER                               1555
+#define SPECIES_BUBBAFAIRY                              1556
+#define SPECIES_FARIKULA                                1557
+#define SPECIES_PIXIBLINA                               1558
+#define SPECIES_SPARKLAMP                               1559
+#define SPECIES_SPARKYENNE                              1560
+#define SPECIES_SORCEYENNE                              1561
+#define SPECIES_FARIVATE                                1552
+#define SPECIES_TEMPIXIE                                1553
+#define SPECIES_CHARMISSE                               1554
+#define SPECIES_ENIGMAROK                               1555
+#define SPECIES_KASHIROIC                               1556
+#define SPECIES_WINDAKONI                               1557
+#define SPECIES_XARAGON                                 1558
+#define SPECIES_NINJAGON                                1559
+#define SPECIES_SAMURAIGON                              1560
+
 #define SPECIES_EGG                                     (SPECIES_FALINKS_MEGA + 1)
 
 #define NUM_SPECIES SPECIES_EGG
