@@ -1765,8 +1765,21 @@
 #define SPECIES_SILVERBONE                              1633
 #define SPECIES_LITHOSCILLER                            1634
 #define SPECIES_TILAGON                                 1635
-#define SPECIES_JERTANA                                 1636 
-#define SPECIES_DIANOMITE                               1637 
+#define SPECIES_JERTANA                                 1636
+#define SPECIES_DIANOMITE                               1637
+#define SPECIES_RUNESTONE                               1638
+#define SPECIES_ALPHASTONE                              1639
+#define SPECIES_OMEGASTONE                              1640
+#define SPECIES_DELTASTONE                              1641
+#define SPECIES_DODOSAUR                                1642
+#define SPECIES_GASTORBEAK                              1643
+#define SPECIES_ARMORNITE                               1644
+#define SPECIES_NAUTICORN                               1645
+#define SPECIES_KUROSNIPER                              1646
+#define SPECIES_HOMURAKEMI                              1647
+#define SPECIES_HOMUCIFIER                              1648
+#define SPECIES_UNHATCHABL                              1649
+#define SPECIES_SHELLBIRD                               1650
 
 #define SPECIES_EGG                                     (SPECIES_FALINKS_MEGA + 1)
 
