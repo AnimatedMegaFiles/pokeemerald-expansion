@@ -1713,7 +1713,7 @@
 #define SPECIES_THERMOSORI                              1583
 #define SPECIES_FOLIAAHY                                1584
 #define SPECIES_CHOMPLIAATH                             1585
-#define SPECIES_SLUGNANA                                1586
+#define SPECIES_SLUGANA                                 1586
 #define SPECIES_CLODARU                                 1587
 #define SPECIES_BEMAARUU                                SPECIES_BEMAARUU_LIGHT
 #define SPECIES_BEMAARUU_LIGHT                          SPECIES_BEMAARUU_DARK
