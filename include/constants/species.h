@@ -1699,21 +1699,21 @@
 #define SPECIES_BLADLE                                  1569
 #define SPECIES_RATTLEKNIFE                             1570
 #define SPECIES_CONDALASS                             	1571
-#define SPECIES_CHILLFIN                             	  1572
-#define SPECIES_SANDRLING                             	1573
-#define SPECIES_NEIGETALON                            	1574
-#define SPECIES_QUAILURROW				                      1575
-#define SPECIES_QUAILTERRA				                      1576
-#define SPECIES_VUTTUBBLE				                        1577
+#define SPECIES_CHILLFIN                                1572
+#define SPECIES_SANDRLING                               1573
+#define SPECIES_NEIGETALON                              1574
+#define SPECIES_QUAILURROW                              1575
+#define SPECIES_QUAILTERRA                              1576
+#define SPECIES_VUTTUBBLE                               1577
 #define SPECIES_HAMSVOLT                                1578
-#define SPECIES_VOLETAGE				                        1579
-#define SPECIES_JETENIGE				                        1580
-#define SPECIES_JETBIRDER				                        1581
-#define SPECIES_SCROPLOTA			  	                      1582
-#define SPECIES_THERMOSORI				                      1583
-#define SPECIES_FOLIAAHY				                        1584
-#define SPECIES_CHOMPLIAATH				                      1585
-#define SPECIES_SLUGNANA				                        1586
+#define SPECIES_VOLETAGE                                1579
+#define SPECIES_JETENIGE                                1580
+#define SPECIES_JETBIRDER                               1581
+#define SPECIES_SCROPLOTA                               1582
+#define SPECIES_THERMOSORI                              1583
+#define SPECIES_FOLIAAHY                                1584
+#define SPECIES_CHOMPLIAATH                             1585
+#define SPECIES_SLUGNANA                                1586
 #define SPECIES_CLODARU                                 1587
 #define SPECIES_BEMAARUU_LIGHT                          SPECIES_BEMAARUU_DARK
 #define SPECIES_BEMAARUU_DARK                           1588
@@ -1752,6 +1752,21 @@
 #define SPECIES_PORCUBOLT                               1620
 #define SPECIES_ANISONBERG                              1621
 #define SPECIES_MUSICORRINE                             1622
+#define SPECIES_GEOPEBBLE                               1623
+#define SPECIES_CRYSTEODI                               1624
+#define SPECIES_GEODRAKE                                1625
+#define SPECIES_PRISMINI                                1626
+#define SPECIES_PRISMATRON                              1627
+#define SPECIES_PRIOSMADAME                             1628
+#define SPECIES_PEBBLROCK                               1629
+#define SPECIES_CAIRLAR                                 1630
+#define SPECIES_ROCKADGER                               1631
+#define SPECIES_MOUNTADGER                              1632
+#define SPECIES_SILVERBONE                              1633
+#define SPECIES_LITHOSCILLER                            1634
+#define SPECIES_TILAGON                                 1635
+#define SPECIES_JERTANA                                 1636 
+#define SPECIES_DIANOMITE                               1637 
 
 #define SPECIES_EGG                                     (SPECIES_FALINKS_MEGA + 1)
 
