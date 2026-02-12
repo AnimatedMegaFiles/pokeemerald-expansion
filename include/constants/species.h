@@ -1840,8 +1840,33 @@
 #define SPECIES_COCOROCK                                1725
 #define SPECIES_GEOCOSMIC                               1726
 #define SPECIES_ASTRASUKU                               1727
+#define SPECIES_SKULLMULET                              1728
+#define SPECIES_KRASMULET                               1729
+#define SPECIES_TARBIMAKI                               1730
+#define SPECIES_BLAKOL                                  1731
+#define SPECIES_SIDECHROMINA                            1732
+#define SPECIES_TRAUMARIDUM                             1733
+#define SPECIES_WATABOTWO                               1734
+#define SPECIES_HATRESOUL                               1735
+#define SPECIES_MEMORISOUL                              1736
+#define SPECIES_SOULMALYNN                              1737
+#define SPECIES_WISPIRIT                                1738
+#define SPECIES_PHANTOSCORCH                            1739
+#define SPECIES_PHANTOGATO                              1740
+#define SPECIES_TERROTIGRE                              1741
+#define SPECIES_SPECTASM                                1742
+#define SPECIES_GEONRYO                                 1743
+#define SPECIES_SPIRIMIA                                1744
+#define SPECIES_GAURDANGEL                              1745
+#define SPECIES_FANORUDA                                1746
+#define SPECIES_ABRINGDONII                             1747
+#define SPECIES_LANTAWANDER                             1748
+#define SPECIES_CALAMPITY                               1749
+#define SPECIES_HAUNTESEED                              1750
+#define SPECIES_PUMPKISPOOK                             1751
+#define SPECIES_SLATENICA                               1752
 
-#define SPECIES_EGG                                     (SPECIES_FALINKS_MEGA + 1)
+#define SPECIES_EGG                                     (SPECIES_SLATENICA + 1)
 
 #define NUM_SPECIES SPECIES_EGG
 
