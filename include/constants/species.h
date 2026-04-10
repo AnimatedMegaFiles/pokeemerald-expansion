@@ -1934,6 +1934,57 @@
 #define SPECIES_WAFFELERIE                              1819
 #define SPECIES_SNOCANONE                               1820
 #define SPECIES_HOSHIKURA                               1821
+#define SPECIES_BIGBOMBA                                1822
+#define SPECIES_FRYSLETT                                1823
+#define SPECIES_PALORMITT                               1824
+#define SPECIES_PLANKTOZAP                              1825
+#define SPECIES_KRILLERSPARK                            1826
+#define SPECIES_SPARKBIRD                               1827
+#define SPECIES_VOLTANGER                               1828
+#define SPECIES_CHRONIX                                 1829
+#define SPECIES_COUNTELLOCK                             1830
+#define SPECIES_KINDERENA_F                             1831
+#define SPECIES_ADORENA                                 1832
+#define SPECIES_CHARMIRENA                              1833
+#define SPECIES_KINDERENA_M                             1834
+#define SPECIES_SYRENBRAWLER                            1835
+#define SPECIES_BRAWLIRENA                              1836
+#define SPECIES_THUNDEEL                                1837
+#define SPECIES_EELIGHTNING                             1838
+#define SPECIES_POLYTE                                  1839
+#define SPECIES_TESCORAL                                1840
+#define SPECIES_JAWLIT                                  1841
+#define SPECIES_KATCHELINE                              1842
+#define SPECIES_SPONGATTO                               1843
+#define SPECIES_PURCORAL                                1844
+#define SPECIES_KURKORAL                                1845
+#define SPECIES_NEPTLUMI                                1846
+#define SPECIES_NARVARTIC                               1847
+#define SPECIES_POLARWHAL                               1848
+#define SPECIES_FUARWHAL                                1849
+#define SPECIES_CADUCACUS                               1850
+#define SPECIES_NEREIVELLE                              1851
+#define SPECIES_COLOSSQUID                              1852
+#define SPECIES_GELAJINN                                1853
+#define SPECIES_PIZZAOOZE                               1854
+#define SPECIES_GOOZA                                   1855
+#define SPECIES_FIAMADO                                 1856
+#define SPECIES_ILLUSPEIL                               1857
+#define SPECIES_PETALITH                                1858
+#define SPECIES_SLYMAGE                                 1859
+#define SPECIES_COLTWING                                1860
+#define SPECIES_PEGASTELLAR                             1861
+#define SPECIES_UNIPEAGSUS                              1862
+#define SPECIES_NALABALAN                               1863
+#define SPECIES_ARDRODITE                               1864
+#define SPECIES_DISORIGUANA                             SPECIES_DISORIGUANA_
+#define SPECIES_DISORIGUANA                             1865
+#define SPECIES_SOUPPHIRE                               1866
+#define SPECIES_NEPHAMETH                               1867
+#define SPECIES_DARKSTONE                               1868
+#define SPECIES_SPIRITGEM                               1869
+#define SPECIES_DIABOLIGEM                              1870
+
 
 #define SPECIES_EGG                                     (SPECIES_HOSHIKURA + 1)
 
