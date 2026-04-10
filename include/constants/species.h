@@ -1865,8 +1865,41 @@
 #define SPECIES_HAUNTESEED                              1750
 #define SPECIES_PUMPKISPOOK                             1751
 #define SPECIES_SLATENICA                               1752
+#define SPECIES_GRIFFITECH                              1753
+#define SPECIES_CYBERMOTOR                              1754
+#define SPECIES_LOLLIOPSIS                              1755
+#define SPECIES_TRANSARIC                               1756
+#define SPECIES_HOLLOCAENA                              1757
+#define SPECIES_AMAKIBAYU                               1758
+#define SPECIES_BATIMP                                  1759
+#define SPECIES_DRACULIMP                               1760
+#define SPECIES_TRASHODILE                              1761
+#define SPECIES_MULLABFALL                              1762
+#define SPECIES_NRUFFIAN                                1763
+#define SPECIES_OINKRUFFIAN                             1764
+#define SPECIES_WRESTIBIS                               1765
+#define SPECIES_CHARMITIE                               1766
+#define SPECIES_MARINAHESA                              1767
+#define SPECIES_SHARKOBRA                               1768
+#define SPECIES_PRETTIDILLA                             1769
+#define SPECIES_YANDENELLE                              1770
+#define SPECIES_PAIYA                                   1771
+#define SPECIES_BAIYOEN                                 1772
+#define SPECIES_REPTILLIA                               1773
+#define SPECIES_REPTILIGON                              1774
+#define SPECIES_ACIDGON                                 1775
+#define SPECIES_DRAGLIGNANT                             1776
+#define SPECIES_LYCANINE                                1777
+#define SPECIES_ULTIMALUS                               1778
+#define SPECIES_KIMCHEMI                                1779
+#define SPECIES_BAMLOBBER                               1780
+#define SPECIES_BAMBLASTER                              1781
+#define SPECIES_TIMBERTANK                              1782
+#define SPECIES_EMUSHIRO                                1783
+#define SPECIES_KEDIOTIC                                1784
 
-#define SPECIES_EGG                                     (SPECIES_SLATENICA + 1)
+
+#define SPECIES_EGG                                     (SPECIES_KEDIOTIC + 1)
 
 #define NUM_SPECIES SPECIES_EGG
 
