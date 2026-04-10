@@ -1897,7 +1897,43 @@
 #define SPECIES_TIMBERTANK                              1782
 #define SPECIES_EMUSHIRO                                1783
 #define SPECIES_KEDIOTIC                                1784
-
+#define SPECIES_MAWGUANA                                1785
+#define SPECIES_DRAGOFERRO                              1786
+#define SPECIES_BOBACANNON                              1787
+#define SPECIES_DESSERTINA                              1788
+#define SPECIES_SUNDAELLUN                              1789
+#define SPECIES_PRINSGLEY                               1790
+#define SPECIES_FLUIDGON                                1791
+#define SPECIES_STEAMWYRM                               1792
+#define SPECIES_SLUSHIGON                               1793
+#define SPECIES_ARCTIHARE                               1794
+#define SPECIES_HAUNTGONI                               1795
+#define SPECIES_FOREVARALD                              1796
+#define SPECIES_RELICANGEL                              1797
+#define SPECIES_BLESSIRENE                              1798
+#define SPECIES_DIVIRENE                                1799
+#define SPECIES_DAEVIL                                  1800
+#define SPECIES_DAEMONWRATH                             1801
+#define SPECIES_DAEVILMOS                               1802
+#define SPECIES_FALOINK                                 1803
+#define SPECIES_HOGRATION                               1804
+#define SPECIES_SPEARSPIE                               1805
+#define SPECIES_WARRANU                                 1806
+#define SPECIES_SAKYAKO                                 1807
+#define SPECIES_APHTATO                                 1808
+#define SPECIES_AAROTATER                               1809
+#define SPECIES_WINDRAGON                               1810
+#define SPECIES_TORNALUNG                               1811
+#define SPECIES_TYPHOOGON                               1812
+#define SPECIES_PILAQUA                                 1813
+#define SPECIES_DONTAQUA                                1814
+#define SPECIES_PILAVA                                  1815
+#define SPECIES_DONTEMBER                               1816
+#define SPECIES_SEALUCHA                                1817
+#define SPECIES_WALWRESTLE                              1818
+#define SPECIES_WAFFELERIE                              1819
+#define SPECIES_SNOCANONE                               1820
+#define SPECIES_HOSHIKURA                               1821
 
 #define SPECIES_EGG                                     (SPECIES_KEDIOTIC + 1)
 
