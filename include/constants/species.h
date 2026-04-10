@@ -1986,7 +1986,7 @@
 #define SPECIES_DIABOLIGEM                              1870
 
 
-#define SPECIES_EGG                                     (SPECIES_HOSHIKURA + 1)
+#define SPECIES_EGG                                     (SPECIES_DIABOLIGEM + 1)
 
 #define NUM_SPECIES SPECIES_EGG
 
