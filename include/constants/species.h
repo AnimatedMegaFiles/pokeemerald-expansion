@@ -1977,8 +1977,8 @@
 #define SPECIES_UNIPEAGSUS                              1862
 #define SPECIES_NALABALAN                               1863
 #define SPECIES_ARDRODITE                               1864
-#define SPECIES_DISORIGUANA                             SPECIES_DISORIGUANA_
-#define SPECIES_DISORIGUANA                             1865
+#define SPECIES_DISORIGUANA                             SPECIES_DISORIGUANA_CRASHOUT
+#define SPECIES_DISORIGUANA_CRASHOUT                    1865
 #define SPECIES_SOUPPHIRE                               1866
 #define SPECIES_NEPHAMETH                               1867
 #define SPECIES_DARKSTONE                               1868
