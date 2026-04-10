@@ -1935,7 +1935,7 @@
 #define SPECIES_SNOCANONE                               1820
 #define SPECIES_HOSHIKURA                               1821
 
-#define SPECIES_EGG                                     (SPECIES_KEDIOTIC + 1)
+#define SPECIES_EGG                                     (SPECIES_HOSHIKURA + 1)
 
 #define NUM_SPECIES SPECIES_EGG
 
