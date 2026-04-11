@@ -1715,8 +1715,7 @@
 #define SPECIES_CHOMPLIAATH                             1585
 #define SPECIES_SLUGANA                                 1586
 #define SPECIES_CLODARU                                 1587
-#define SPECIES_BEMAARUU                                SPECIES_BEMAARUU_LIGHT
-#define SPECIES_BEMAARUU_LIGHT                          SPECIES_BEMAARUU_DARK
+#define SPECIES_BEMAARUU                                SPECIES_BEMAARUU_DARK
 #define SPECIES_BEMAARUU_DARK                           1588
 #define SPECIES_GRAVITOP                                1589
 #define SPECIES_UPSIDEBRELLA                            1590
@@ -1742,8 +1741,7 @@
 #define SPECIES_DYNASQUASH                              1610
 #define SPECIES_BOMBERSQUASH                            1611
 #define SPECIES_BLONDEGAN                               1612
-#define SPECIES_MAMOTOE                                 SPECIES_MAMOTOE_BASE
-#define SPECIES_MAMOTOE_BASE                            SPECIES_MAMOTOE_HOLY_MAMI
+#define SPECIES_MAMOTOE                                 SPECIES_MAMOTOE_HOLY_MAMI
 #define SPECIES_MAMOTOE_HOLY_MAMI                       1613
 #define SPECIES_ESKAGON                                 1614
 #define SPECIES_BRAWLYCAN                               1615
@@ -1984,6 +1982,60 @@
 #define SPECIES_DARKSTONE                               1868
 #define SPECIES_SPIRITGEM                               1869
 #define SPECIES_DIABOLIGEM                              1870
+#define SPECIES_SPHEREMANDER                            1871
+#define SPECIES_ENIGMADRAKE                             1872
+#define SPECIES_SOLSTINOX                               1873
+#define SPECIES_PINEOPOD                                1874
+#define SPECIES_CAKINEKO                                1875
+#define SPECIES_FRUITFOWL                               1876
+#define SPECIES_HEXAFLORA                               1877
+#define SPECIES_SLIMERNIC                               1878
+#define SPECIES_CETORINADO                              1879
+#define SPECIES_SPHINDRAGE                              1880
+#define SPECIES_PORCUBLAZE                              1881
+#define SPECIES_PRUNCE                                  1882
+#define SPECIES_FUWA                                    1883
+#define SPECIES_CLAYCIA                                 1884
+#define SPECIES_ADOBEAT                                 1885
+#define SPECIES_MIRIGON                                 1886
+#define SPECIES_MOLTELIND                               1887
+#define SPECIES_BEGGINAPH                               1888
+#define SPECIES_MATROMYTHIC                             1889
+#define SPECIES_WANRASTAIM                              1890
+#define SPECIES_KYUBII                                  1891
+#define SPECIES_YUKIMU                                  1892
+#define SPECIES_STABITHA                                1893
+#define SPECIES_STALIKATA                               1894
+#define SPECIES_LEECHIREN                               1895
+#define SPECIES_SANDCOUSTIC                             1896
+#define SPECIES_MEGAWYRM                                1897
+#define SPECIES_COSMOISE                                1898
+#define SPECIES_CERBURNES                               1899
+#define SPECIES_PLESIOSOUL                              1900
+#define SPECIES_GANDRBOLT                               1901
+#define SPECIES_HURRISYLPH                              1902
+#define SPECIES_FROSTYETI                               1903
+#define SPECIES_CHAMPIRON                               1904
+#define SPECIES_SERPERENE                               1905
+#define SPECIES_DAEMOVALK                               1906
+#define SPECIES_RELICOATL                               SPECIES_RELICOATL_UNLEASHED
+#define SPECIES_RELICOATL_UNLEASHED                     1907
+#define SPECIES_CETUBULA                                1908
+#define SPECIES_SERPENSTAR                              1909
+#define SPECIES_GALAXIGRUS                              1910
+#define SPECIES_KUSHOOGON                               1911
+#define SPECIES_DEFORMAGON                              1912
+#define SPECIES_VILLENTITY                              1913
+#define SPECIES_OBSCAURAKE                              1914
+#define SPECIES_PURIKUHEART                             1915
+#define SPECIES_YUMMANOID                               1916
+#define SPECIES_PURIKUHEART                             1917
+#define SPECIES_MEEMEOW                                 1918
+#define SPECIES_CHRONOLETA                              1919
+
+  
+ // Misc Forms (Ceastil)
+  
 
 
 #define SPECIES_EGG                                     (SPECIES_DIABOLIGEM + 1)
