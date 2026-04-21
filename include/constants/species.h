@@ -2063,20 +2063,20 @@
 #define SPECIES_YUMMANOID_STARDROP                            1947
 #define SPECIES_CHRONOLETA_PURIFIED                           1948
 // Delicious Party Add-ons
-#define SPECIES_GRAVITOP                                      1949
-#define SPECIES_CALAMPITY                                     1950
-#define SPECIES_KOMEKOME                                      1951
-#define SPECIES_OMINAGOI                                      1952
-#define SPECIES_MAIZEED                                       1953
-#define SPECIES_MAZAMELLA                                     1954
-#define SPECIES_IDOLKALLI                                     1955
-#define SPECIES_CREEPAUSTA                                    1956
-#define SPECIES_GOREDENT                                      1957
-#define SPECIES_HUGUIN                                        1958
-#define SPECIES_SOARHIRO                                      1959
-#define SPECIES_SKAIFIGHTER                                   1960
-#define SPECIES_SOARANDES                                     1961
-#define SPECIES_METELYST                                      1962
+  #define SPECIES_GRAVITOP                                      1949
+  #define SPECIES_CALAMPITY                                     1950
+  #define SPECIES_KOMEKOME                                      1951
+  #define SPECIES_OMINAGOI                                      1952
+  #define SPECIES_MAIZEED                                       1953
+  #define SPECIES_MAZAMELLA                                     1954
+  #define SPECIES_IDOLKALLI                                     1955
+  #define SPECIES_CREEPAUSTA                                    1956
+  #define SPECIES_GOREDENT                                      1957
+  #define SPECIES_HUGUIN                                        1958
+  #define SPECIES_SOARHIRO                                      1959
+  #define SPECIES_SKAIFIGHTER                                   1960
+  #define SPECIES_SOARANDES                                     1961
+  #define SPECIES_METELYST                                      1962
   
 #define SPECIES_EGG                                     (SPECIES_METELYST + 1)
 
