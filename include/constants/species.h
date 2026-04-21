@@ -1877,9 +1877,9 @@
 #define SPECIES_OINKRUFFIAN                             1764
 #define SPECIES_WRESTIBIS                               1765
 #define SPECIES_CHARMITIE                               1766
-#define SPECIES_MARINAHESA                              1767
-#define SPECIES_SHARKOBRA                               1768
-#define SPECIES_PRETTIDILLA                             1769
+#define SPECIES_SHARKOBRA                               1767
+#define SPECIES_PRETTIDILLA                             1768
+#define SPECIES_CURZITRUS                               1769
 #define SPECIES_YANDENELLE                              1770
 #define SPECIES_PAIYA                                   1771
 #define SPECIES_BAIYOEN                                 1772
@@ -1947,8 +1947,8 @@
 #define SPECIES_KINDERENA_M                             1834
 #define SPECIES_SYRENBRAWLER                            1835
 #define SPECIES_BRAWLIRENA                              1836
-#define SPECIES_THUNDEEL                                1837
-#define SPECIES_EELIGHTNING                             1838
+#define SPECIES_BULPHUS                                 1837
+#define SPECIES_ELECTHROZ                               1838
 #define SPECIES_POLYTE                                  1839
 #define SPECIES_TESCORAL                                1840
 #define SPECIES_JAWLIT                                  1841
@@ -2022,7 +2022,7 @@
 #define SPECIES_RELICOATL_UNLEASHED                     1907
 #define SPECIES_CETUBULA                                1908
 #define SPECIES_SERPENSTAR                              1909
-#define SPECIES_GALAXIGRUS                              1910
+#define SPECIES_LUPUSCINT                               1910
 #define SPECIES_KUSHOOGON                               1911
 #define SPECIES_DEFORMAGON                              1912
 #define SPECIES_VILLENTITY                              1913
@@ -2032,13 +2032,53 @@
 #define SPECIES_PURIKUHEART                             1917
 #define SPECIES_MEEMEOW                                 1918
 #define SPECIES_CHRONOLETA                              1919
-
+// Misc Forms (Ceastil)
+#define SPECIES_FRUITFOWL_APPLE                               1920
+#define SPECIES_FRUITFOWL_ORANGE                              1921
+#define SPECIES_FRUITFOWL_BANANA                              1922
+#define SPECIES_FRUITFOWL_BLUEBERRY                           1923
+#define SPECIES_FRUITFOWL_PINEAPPLE                           1924
+#define SPECIES_FRUITFOWL_LEMON                               1925
+#define SPECIES_FRUITFOWL_CHERRY                              1926
+#define SPECIES_FRUITFOWL_LIME                                1927
+#define SPECIES_FRUITFOWL_APRICOT                             1928
+#define SPECIES_FRUITFOWL_KIWI                                1929
+#define SPECIES_FRUITFOWL_POMEGRANTE                          1930
+#define SPECIES_FRUITFOWL_AVOCADO                             1931
+#define SPECIES_FRUITFOWL_CHERIMOYA                           1932
+#define SPECIES_FRUITFOWL_PITAYA                              1933
+#define SPECIES_FRUITFOWL_GRAPES                              1934
+#define SPECIES_FRUITFOWL_GUAVA                               1935
+#define SPECIES_FRUITFOWL_PEAR                                1936
+#define SPECIES_FRUITFOWL_STARFRUIT                           1937
+#define SPECIES_FRUITFOWL_GRAPEFRUIT                          1938
+#define SPECIES_FRUITFOWL_LONGAN                              1939
+#define SPECIES_FRUITFOWL_SANTOL                              1940
+#define SPECIES_FRUITFOWL_MANGOSTEEN                          1941
+#define SPECIES_FRUITFOWL_SAPODILLA                           1942
+#define SPECIES_FRUITFOWL_PLUM                                1943
+#define SPECIES_FRUITFOWL_GOOSEBERRY                          1944
+#define SPECIES_FRUITFOWL_PAPAYA                              1945
+#define SPECIES_FRUITFOWL_FULLFRUITBOWL                       1946
+#define SPECIES_YUMMANOID_STARDROP                            1947
+#define SPECIES_CHRONOLETA_PURIFIED                           1948
+// Delicious Party Add-ons
+#define SPECIES_GRAVITOP                                      1949
+#define SPECIES_CALAMPITY                                     1950
+#define SPECIES_KOMEKOME                                      1951
+#define SPECIES_OMINAGOI                                      1952
+#define SPECIES_MAIZEED                                       1953
+#define SPECIES_MAZAMELLA                                     1954
+#define SPECIES_IDOLKALLI                                     1955
+#define SPECIES_CREEPAUSTA                                    1956
+#define SPECIES_GOREDENT                                      1957
+#define SPECIES_HUGUIN                                        1958
+#define SPECIES_SOARHIRO                                      1959
+#define SPECIES_SKAIFIGHTER                                   1960
+#define SPECIES_SOARANDES                                     1961
+#define SPECIES_METELYST                                      1962
   
- // Misc Forms (Ceastil)
-  
-
-
-#define SPECIES_EGG                                     (SPECIES_DIABOLIGEM + 1)
+#define SPECIES_EGG                                     (SPECIES_METELYST + 1)
 
 #define NUM_SPECIES SPECIES_EGG
 
